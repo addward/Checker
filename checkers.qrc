@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>black.png</file>
+        <file>null.png</file>
+        <file>white.png</file>
+        <file>null_1.png</file>
+        <file>move.png</file>
+        <file>kill.png</file>
+        <file>black_q.png</file>
+        <file>white_q.png</file>
+    </qresource>
+</RCC>
