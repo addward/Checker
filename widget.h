@@ -63,6 +63,8 @@ private slots:
     void on_a7_l_clicked();
 
 
+    void on_radioButton_2_clicked();
+
 private:
     Ui::Widget *ui;
 };
